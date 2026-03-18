@@ -12,7 +12,11 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// Health check
+// Root / Health check
+app.get("/", (_req, res) => {
+  res.status(200).send("Task Management API is running!");
+});
+
 app.get("/health", (_req, res) => {
   res.status(200).json({ status: "ok" });
 });
