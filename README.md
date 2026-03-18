@@ -5,8 +5,8 @@ A modern, responsive, and robust full-stack Task Management application designed
 ![Dashboard Screenshot](/docs/dashboard-placeholder.png)
 
 ## Live Deployment
-- **Frontend (Vercel)**: [https://taskmaster-frontend-placeholder.vercel.app](https://taskmaster-frontend-placeholder.vercel.app)
-- **Backend (Railway)**: [https://taskmaster-api-placeholder.railway.app](https://taskmaster-api-placeholder.railway.app)
+- **Frontend (Vercel)**: [https://task-management-system-git-main-arnavs-projects-73e5cd9a.vercel.app](https://task-management-system-git-main-arnavs-projects-73e5cd9a.vercel.app)
+- **Backend (Render)**: [https://task-management-system-1-pj68.onrender.com](https://task-management-system-1-pj68.onrender.com)
 
 ---
 
@@ -40,8 +40,8 @@ A modern, responsive, and robust full-stack Task Management application designed
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Arnav-1456/Task-Management-System.git
+cd Task-Management-System
 ```
 
 ### 2. Backend Setup
