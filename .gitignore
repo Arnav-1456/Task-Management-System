@@ -3,3 +3,7 @@ dist/
 .env
 .env.local
 .next/
+*.log
+err.txt
+error.log
+ts-error*.log
