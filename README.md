@@ -29,6 +29,19 @@ A modern, responsive, and robust full-stack Task Management application designed
 
 ---
 
+## ✨ Bonus Features & Project Highlights
+
+This implementation goes beyond the basic requirements to include several professional-grade features:
+
+- **⚡ Optimistic UI**: Instant status toggles and task updates for a zero-latency user experience.
+- **🔄 Auto-Refresh Authentication**: Custom Axios interceptors that seamlessly handle token expiration without logging the user out.
+- **🔍 Smart Search & Filtering**: Debounced search functionality to prevent API spamming and improve performance.
+- **📱 Fully Responsive Design**: A "Mobile-First" approach ensuring the dashboard looks stunning on any device.
+- **🛡️ Security Hardened**: Implemented backend rate-limiting, CORS protection, and secure cookie management.
+- **🔔 Real-time Feedback**: Vibrant toast notifications powered by `sonner` for every user action.
+
+---
+
 ## 🚀 Local Setup Instructions
 
 ### Prerequisites
